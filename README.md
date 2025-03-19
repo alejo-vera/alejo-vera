@@ -3,7 +3,7 @@
 Este es mi segunda cuenta de GitHub, la anterior perdí el acceso.🤕 https://github.com/alejovera. Era más dedicada al Software Development. <br />
 Hace un tiempo que vengo especializandome en Datos. Con la carrera universitaria, fui descubriendo este apasionante mundo. <br />
 Tenía cierta facilidad por tener concimientos y experiencia en SQL y programación, además de Estadística y Econometría. <br />
-Comencé a utilizar GitHub de nuevo recientemente, antes tuve todos los proyectos en Notebooks en la nube, pero otros proyectos previos se pueden encontrar en mi Kaggle: https://www.kaggle.com/alejovera02 😉
+Comencé a utilizar GitHub de nuevo recientemente, previamente tuve todos los proyectos en Notebooks en la nube, pero otros proyectos previos se pueden encontrar en mi Kaggle: https://www.kaggle.com/alejovera02 😉
 
 <!--
 **alejo-vera/alejo-vera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
