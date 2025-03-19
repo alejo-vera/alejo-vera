@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hola! Soy Alejo 👋
+
+Este es mi segunda cuenta de GitHub, la anterior perdí el acceso.🤕 https://github.com/alejovera. Era más dedicada al Software Development.
+Hace un tiempo que vengo especializandome en Datos. Con la carrera universitaria, fui descubriendo este apasionante mundo.
+Tenía cierta facilidad por tener concimientos y experiencia en SQL y programación, además de Estadística y Econometría.
+Comencé a utilizar GitHub de nuevo hace poco, pero otros proyectos previos se pueden encontrar en mi Kaggle: https://www.kaggle.com/alejovera02 😉
 
 <!--
 **alejo-vera/alejo-vera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
