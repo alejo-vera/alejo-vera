@@ -1,7 +1,7 @@
 ## Hola! Soy Alejo 👋
 
 Este es mi segunda cuenta de GitHub. Perdí el acceso de la anterior.🤕 https://github.com/alejovera, más dedicada al Software Development. <br />
-Actualmente me especializo en Datos. Con la carrera universitaria, fui descubriendo este apasionante mundo, y me llevó a utilizar herramientas de esta en conjunción con los herramientas técnicas ya obtenidas en mi experiencia profesional <br />
+Actualmente me especializo en Datos. Con la carrera universitaria fui descubriendo este apasionante mundo, y utilizando conocimientos de esta en conjunción con los herramientas técnicas ya obtenidas en mis más de 3 años de experiencia profesional <br />
 Cuento con Aptitudes en:
 * SQL
 * Python
